@@ -1,7 +1,3 @@
-## `.eslintrc`
+## `.jshintrc`
 
-Our `.eslintrc` requires the following NPM packages packages:
-
-- `eslint`
-- `babel-eslint`
-- `eslint-plugin-react`
+Use the `.jshintrc` and `.jscsrc` in the linters/ folder for linting preferences.
