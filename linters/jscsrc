@@ -1,4 +1,7 @@
 {
   "preset": "airbnb",
+  "requirePaddingNewLinesAfterBlocks": {
+    "allExcept": ["inCallExpressions", "inProperties"]
+  },
   "esnext": true
 }
