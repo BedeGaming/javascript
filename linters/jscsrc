@@ -1,7 +1,22 @@
 {
   "preset": "airbnb",
+  "maximumLineLength": 120,
+  "esnext": true,
+  "plugins": ["import-spaces"],
+  "requireCamelCaseOrUpperCaseIdentifiers": "ignoreProperties",
   "requirePaddingNewLinesAfterBlocks": {
     "allExcept": ["inCallExpressions", "inProperties"]
   },
-  "esnext": true
+  "disallowSpacesInAnonymousFunctionExpression": {
+    "beforeOpeningRoundBrace": true
+  },
+  "requireSpacesInAnonymousFunctionExpression": {
+    "beforeOpeningCurlyBrace": true,
+    "allExcept": ["shorthand"]
+  },
+  "requireTrailingComma": false,
+  "disallowTrailingComma": true,
+  "disallowSpacesInsideObjectBrackets": false,
+  "requireSpacesInsideObjectBrackets": "all",
+  "requireImportSpaces": true
 }
