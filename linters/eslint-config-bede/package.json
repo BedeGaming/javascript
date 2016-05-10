@@ -1,0 +1,25 @@
+{
+  "name": "@bedegaming/eslint-config-bede",
+  "version": "1.0.1",
+  "description": "Bede Gaming's ESLint config",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BedeGaming/javascript/linters/eslint-config-bede.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BedeGaming/javascript/linters/eslint-config-bede/issues"
+  },
+  "homepage": "https://github.com/BedeGaming/javascript/linters/eslint-config-bede#readme",
+  "dependencies": {
+    "eslint": "^2.9.0",
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-plugin-import": "^1.7.0"
+  }
+}
