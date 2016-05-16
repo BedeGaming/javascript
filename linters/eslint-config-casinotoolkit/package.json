@@ -1,6 +1,6 @@
 {
   "name": "@bedegaming/eslint-config-casinotoolkit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Casinotoolit ESLint Config",
   "main": "index.js",
   "scripts": {
