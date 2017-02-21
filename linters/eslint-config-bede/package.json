@@ -1,6 +1,6 @@
 {
   "name": "@bedegaming/eslint-config-bede",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Bede Gaming's ESLint config",
   "main": "index.js",
   "scripts": {},

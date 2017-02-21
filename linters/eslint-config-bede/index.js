@@ -9,6 +9,7 @@ module.exports = {
       ignoreComments: false
     }],
     'comma-dangle': [2, 'never'],
-    'no-restricted-syntax': [0]
+    'no-restricted-syntax': [0],
+    'no-confusing-arrow': ['error', { allowParens: true }]
   }
 };
